@@ -24,7 +24,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammohanty&show_icons=true&locale=en&layout=compact" alt="shubhammohanty" /></p>
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhammohanty&show_icons=true&theme=radical)
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhammohanty&show_icons=true&theme=radical)
 
 
 
