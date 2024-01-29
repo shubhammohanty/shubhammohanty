@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammohanty&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammohanty" /> </p>
 
-- 🌱 I’m currently learning **Python, C**
+- 🌱 My language kit includes **Python, C, C++, dart, PHP and more.**
 
 - 📫 How to reach me **whatsbehindit5@gmail.com**
 
